@@ -71,7 +71,7 @@ opacity:1;
 #countdownE{
 position:relative;
 top:-25px;
-z-index:0;
+z-index:4;
 }
 
 #text h1{
